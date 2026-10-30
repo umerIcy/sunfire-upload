@@ -1,0 +1,45 @@
+
+{
+  "sunfire": {
+    "host": "https://api.sunfirematrix.com"
+  },
+  "callgrid": {
+    "base_url": "https://api.callgrid.com",
+    "calls_path": "/api/call",
+    "auth_header": "Authorization",
+    "auth_prefix": "Bearer ",
+    "param_from": "startDate",
+    "param_to": "endDate",
+    "param_caller": "",
+    "field_map": {
+      "id": "id",
+      "caller": "CallerId",
+      "recording": "callRecordingUrl",
+      "start": "createdAt",
+      "duration": "callDuration"
+    }
+  },
+  "sheet": {
+    "spreadsheet_id": "1J8Wos5UGnXklqW7lMBSemJPRG_q59XDepYB1oKn_AYc",
+    "tab": "2026Sales",
+    "carrier": "Humana",
+    "date_column": "Date",
+    "caller_column": "Caller ID",
+    "client_column": "Client Name",
+    "carrier_column": "Carrier",
+    "code_column": "Enrollment Code",
+    "codes_file": "enrollment_codes.csv",
+    "poll_minutes": 3,
+    "retry_minutes": [10, 30, 120],
+    "give_up_hours": 24,
+    "full_read_minutes": 15
+  },
+  "ix": {
+    "host": "https://api.compliancex.ai",
+    "auth_url": "https://sunfire.sunfirematrix.auth0.com/oauth/token",
+    "audience": "https://api.compliancex.ai",
+    "call_type": "enrollment",
+    "disposition": "sold",
+    "agent_email": "agent@example.com"
+  }
+}

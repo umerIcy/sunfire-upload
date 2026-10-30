@@ -1,0 +1,7 @@
+# For humana_sync_v2.py
+#   py -m venv .venv
+#   .venv\Scripts\activate
+#   py -m pip install -r requirements.txt
+requests==2.34.2
+openpyxl==3.1.5
+google-auth==2.62.0

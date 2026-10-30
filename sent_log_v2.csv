@@ -1,0 +1,95 @@
+time,enrollment_code,client,caller_id,sale_date,files,callRecordingId,status,error,callgrid_ids
+2026-10-28T18:02:20,BMG2XTJZ1H,Anne Preston,9416236607,2026-10-15,BMG2XTJZ1H_1.mp3,clm_vW27B5qOl98Io6gaK9LrmMoD,finalized,,cmv9ti9ntsujx06ijfo1waijx
+2026-10-28T18:02:23,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,failed,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T18:11:07,8BTKV608GJ,Michael Poindexter,8482400248,2026-10-16,8BTKV608GJ_1.mp3,clm_ALRjmDYOAJmt3ZzNKWb7oqxB,finalized,,cmvb2vspda6hr07jq9q4d8ulg
+2026-10-28T18:24:50,KKSKGSXF7G,Curtis Brown,8034573139,2026-10-16,KKSKGSXF7G_1.mp3,clm_MzL49wa08yrSegMxEjmqP7A3,finalized,,cmvbbuyfvzb7807k2fitq5p9u
+2026-10-28T18:34:22,06BM1J2Q6V,Barbara Baxter,6892300399,2026-10-17,06BM1J2Q6V_1.mp3,clm_lXnZjbmEe3MtvrqvKBN4QJ1y,finalized,,cmvcssixpb16r06jscjmf2voi
+2026-10-28T18:55:03,7LCP3X55TR,Randy Delano,6412440274,2026-10-19,7LCP3X55TR_1.mp3,clm_xwl1jarKa5VfM3L2KbW7qp6z,finalized,,cmvfe983u7jra07ifg12ccspa
+2026-10-28T18:55:05,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,failed,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-28T18:56:19,2RTW1S4S25,Patricia Moore,3342961679,2026-10-20,2RTW1S4S25_1.mp3,clm_N3BPwXy0j91IABeaKzg2qZ8e,finalized,,cmvgvakt96ba306le5wth0gbr
+2026-10-28T18:57:55,FQJV5199SS,Maria Lanzot,5136460526,2026-10-20,FQJV5199SS_1.mp3,clm_gl9pN2A0rMaHyWL9K3amQ4jD,finalized,,cmvh0u9bmz74307jvfxe1a8et
+2026-10-28T19:15:33,GS00F5M9J4,Patricia Johnston,7275443084,2026-10-21,GS00F5M9J4_1.mp3,clm_A41ZwJ2KgQBs1rymEomN5MWY,finalized,,cmvi8r3fwa3nk07k06yh8gyfc
+2026-10-28T19:22:19,X0HF76LBBR,Sara Fowler,4077216675,2026-10-21,X0HF76LBBR_1.mp3,clm_Bv4y62R0qBRTLWxBEYNVl3br,finalized,,cmvib3ipyr9vp07irectd2ojy
+2026-10-28T19:28:54,D79GP8P4ST,Carolyn Miller,2564412781,2026-10-21,D79GP8P4ST_1.mp3,clm_Nr2QJpRK1GLUP5k2EPYxLGZm,finalized,,cmvig80zr6r3r08k34f6jeli6
+2026-10-28T19:38:36,51Q5FVRJRG,Darlene Colley,2057777086,2026-10-21,51Q5FVRJRG_1.mp3,clm_15rxXdnEWQjspPaoKP6jm4ZY,finalized,,cmvij3n2n848306jv9ri5fjxs
+2026-10-28T19:42:06,H1N52710HW,Sherrie Taylor,3093719925,2026-10-21,H1N52710HW_1.mp3,clm_N4xYW7BEPwpH86BD0wd69grX,finalized,,cmvilwoj3lujn08k17pye6hzl
+2026-10-28T19:47:19,RNBQ49FT5W,Paul Grenham,8138021797,2026-10-22,RNBQ49FT5W_1.mp3,clm_PeNBqwp0DJBtX6kaO6gy5x9o,finalized,,cmvjlb0a19ib807jucjtd91vq
+2026-10-28T19:57:42,8N4X66K5PJ,Audrey Moncada,3527052968,2026-10-22,8N4X66K5PJ_1.mp3,clm_LjvJ2w603dPIzPbdEy4QVgWq,finalized,,cmvjnvnxn42qn07ifaawzepq3
+2026-10-28T20:01:18,GW50G8D0TN,Bonnie Conway,4129352753,2026-10-13,,,failed,CallGrid has NO calls from 4129352753 between 2026-10-12 and 2026-10-15. Check the Caller ID / date in the sheet.,
+2026-10-28T20:01:18,RJ6HSCPDWL,Laura Kostel,7578794589,2026-10-15,,,failed,CallGrid has NO calls from 7578794589 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T20:01:18,MQ80JRB2FJ,Claude Pocock,4403159291,2026-10-15,,,failed,CallGrid has NO calls from 4403159291 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T20:01:19,XVLKDD6H1X,Carole Baez,9148442194,2026-10-15,,,failed,CallGrid has NO calls from 9148442194 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T20:01:19,WJ0XW2BWKL,Samir Musharbash,9045530480,2026-10-15,,,failed,CallGrid has NO calls from 9045530480 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T20:01:19,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,failed,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T20:01:20,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,failed,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,2026-10-28T20:26:44,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,waiting,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T20:26:45,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,waiting,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-28T20:30:33,T74917SLX9,Sonnie Gosnell,8286569427,2026-10-21,T74917SLX9_1.mp3,clm_7baXnPBEm74iGQvmKd91lYoZ,finalized,,external
+2026-10-28T20:35:18,NCDPMKFDVS,Jayne Duvall,8134047507,2026-10-22,NCDPMKFDVS_1.mp3,clm_l837D940Xeyhw7xrELo1Zpny,finalized,,external
+2026-10-28T20:39:54,8RBB7TZHRR,Stephanie Mills,2397850721,2026-10-23,8RBB7TZHRR_1.mp3,clm_N4xYW7BEPwpH8oPd0wd69grX,finalized,,external
+2026-10-28T20:50:30,CNP1VR2Q4C,Janet cranford,6013071906,2026-10-23,CNP1VR2Q4C_1.mp3,clm_lAqZDG6KwDLik3qP0RgJryaM,finalized,,external
+2026-10-28T21:00:19,MMQZ452N3J,Duane Janikula,2395950016,2026-10-23,MMQZ452N3J_1.mp3,clm_RwDnL5lOY3vtbrJ20prZXPYV,finalized,,external
+2026-10-28T21:12:46,JMFG9HT0ZZ,Sherri Steverson,7205011128,2026-10-23,JMFG9HT0ZZ_1.mp3,clm_N3BPwXy0j91IAzA3Kzg2qZ8e,finalized,,external
+2026-10-28T21:20:19,N67850PGVC,Marezette Williams,5626828554,2026-10-26,N67850PGVC_1.mp3,clm_9GzmoaXK2j5frZN6KeqJNBj1,finalized,,external
+2026-10-28T21:25:09,ML0QMC12MJ,Jose Maurice Hernandez,2024133134,2026-10-26,ML0QMC12MJ_1.mp3,clm_2e36XRLOMGeUArJ10mdqgjYw,finalized,,external
+2026-10-28T21:31:12,DG3VB4991L,Anthony Lucero,7206823918,2026-10-26,DG3VB4991L_1.mp3,clm_7o8LW6lO7GdUaNobOYA4Rbpn,finalized,,external
+2026-10-28T21:35:48,7T5X2S4518,Helen Watkins,7576792212,2026-10-26,7T5X2S4518_1.mp3,clm_l837D940XeyhwjkVELo1Zpny,finalized,,external
+2026-10-28T21:43:53,825JHJPZ3V,Betty Posey,8504917033,2026-10-26,825JHJPZ3V_1.mp3,clm_gl9pN2A0rMaHyV71K3amQ4jD,finalized,,external
+2026-10-28T21:50:16,B6T89BVQ1L,Damaris Sutton,9037384339,2026-10-26,B6T89BVQ1L_1.mp3,clm_oleMbJG0yGPUGJ1zOwq3m5ky,finalized,,external
+2026-10-28T21:56:10,KVQMMDRCHJ,Madeline Snow,4349398665,2026-10-27,KVQMMDRCHJ_1.mp3,clm_vW27B5qOl98Iob5gK9LrmMoD,finalized,,external
+2026-10-28T22:07:25,T5Q2M3DQ80,Helen Nelson,2297305535,2026-10-27,T5Q2M3DQ80_1.mp3,clm_w1Q9kvjEdvmcNVGQKlL3GJgp,finalized,,external
+2026-10-28T22:16:35,CWFMNL21CN,Mary Wiggins,8632297828,2026-10-27,CWFMNL21CN_1.mp3,clm_N3BPwXy0j91IAzDpKzg2qZ8e,finalized,,external
+2026-10-28T22:21:29,4PBXVMF335,Milo Parello,7089179758,2026-10-27,4PBXVMF335_1.mp3,clm_5bMy3jaKp7eibPRzO8rBP4mg,finalized,,external
+2026-10-28T22:37:32,RPVJ1WH7B9,Jacqueline Allard,7728674100,2026-10-27,RPVJ1WH7B9_1.mp3,clm_nyqjZQ4KbMlHDeQXO9kDJA28,finalized,,external
+2026-10-28T22:38:51,MDJ1PKLKJC,Mertie Derricks,9039180900,2026-10-27,,,failed,"HTTPSConnectionPool(host='api.compliancex.ai', port=443): Read timed out. (read timeout=60)",
+2026-10-28T22:39:04,BFVL054VWD,Carol Reilly,7577442897,2026-07-20,,,waiting,CallGrid has NO calls from 7577442897 between 2026-07-19 and 2026-07-22. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:04,16KLGCK0ZW,Cindy Wright,2394015070,2026-08-07,,,waiting,CallGrid has NO calls from 2394015070 between 2026-08-06 and 2026-08-09. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:04,K5JVSJ0C26,Joan Shiflett,5402211871,2026-08-14,,,waiting,CallGrid has NO calls from 5402211871 between 2026-08-13 and 2026-08-16. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:04,GW50G8D0TN,Bonnie Conway,4129352753,2026-10-13,,,waiting,CallGrid has NO calls from 4129352753 between 2026-10-12 and 2026-10-15. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:05,RJ6HSCPDWL,Laura Kostel,7578794589,2026-10-15,,,waiting,CallGrid has NO calls from 7578794589 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:05,MQ80JRB2FJ,Claude Pocock,4403159291,2026-10-15,,,waiting,CallGrid has NO calls from 4403159291 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:05,XVLKDD6H1X,Carole Baez,9148442194,2026-10-15,,,waiting,CallGrid has NO calls from 9148442194 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:06,WJ0XW2BWKL,Samir Musharbash,9045530480,2026-10-15,,,waiting,CallGrid has NO calls from 9045530480 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:06,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,waiting,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T22:39:06,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,waiting,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-28T22:43:22,J3B5R1153S,Laura Schaumlessel,9485292279,2026-10-28,J3B5R1153S_1.mp3,clm_l837D940XeyhwnZ3ELo1Zpny,finalized,,external
+2026-10-28T22:48:26,XPZDNTXN1Z,Naomi West,9415180255,2026-10-28,XPZDNTXN1Z_1.mp3,clm_lAqZDG6KwDLikPrW0RgJryaM,finalized,,external
+2026-10-28T22:54:58,MDJ1PKLKJC,Mertie Derricks,9039180900,2026-10-27,MDJ1PKLKJC_1.mp3,clm_QRnVPay06lvTJxNMOvWxqJ1p,finalized,,external
+2026-10-28T23:09:04,66JQBH1609,Denise Robinson,3342006902,2026-10-28,66JQBH1609_1.mp3,clm_gG1yWrwOvkWSRDoQKpl3247a,finalized,,external
+2026-10-28T23:09:16,BFVL054VWD,Carol Reilly,7577442897,2026-07-20,,,waiting,CallGrid has NO calls from 7577442897 between 2026-07-19 and 2026-07-22. Check the Caller ID / date in the sheet.,
+2026-10-28T23:09:17,16KLGCK0ZW,Cindy Wright,2394015070,2026-08-07,,,waiting,CallGrid has NO calls from 2394015070 between 2026-08-06 and 2026-08-09. Check the Caller ID / date in the sheet.,
+2026-10-28T23:09:17,K5JVSJ0C26,Joan Shiflett,5402211871,2026-08-14,,,waiting,CallGrid has NO calls from 5402211871 between 2026-08-13 and 2026-08-16. Check the Caller ID / date in the sheet.,
+2026-10-28T23:09:17,GW50G8D0TN,Bonnie Conway,4129352753,2026-10-13,,,waiting,CallGrid has NO calls from 4129352753 between 2026-10-12 and 2026-10-15. Check the Caller ID / date in the sheet.,
+2026-10-28T23:12:16,RJ6HSCPDWL,Laura Kostel,7578794589,2026-10-15,,,waiting,CallGrid has NO calls from 7578794589 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T23:12:16,MQ80JRB2FJ,Claude Pocock,4403159291,2026-10-15,,,waiting,CallGrid has NO calls from 4403159291 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T23:12:16,XVLKDD6H1X,Carole Baez,9148442194,2026-10-15,,,waiting,CallGrid has NO calls from 9148442194 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T23:12:17,WJ0XW2BWKL,Samir Musharbash,9045530480,2026-10-15,,,waiting,CallGrid has NO calls from 9045530480 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T23:12:17,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,waiting,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-28T23:12:17,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,waiting,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-29T01:12:15,BFVL054VWD,Carol Reilly,7577442897,2026-07-20,,,waiting,CallGrid has NO calls from 7577442897 between 2026-07-19 and 2026-07-22. Check the Caller ID / date in the sheet.,
+2026-10-29T01:12:15,16KLGCK0ZW,Cindy Wright,2394015070,2026-08-07,,,waiting,CallGrid has NO calls from 2394015070 between 2026-08-06 and 2026-08-09. Check the Caller ID / date in the sheet.,
+2026-10-29T01:12:16,K5JVSJ0C26,Joan Shiflett,5402211871,2026-08-14,,,waiting,CallGrid has NO calls from 5402211871 between 2026-08-13 and 2026-08-16. Check the Caller ID / date in the sheet.,
+2026-10-29T01:12:16,GW50G8D0TN,Bonnie Conway,4129352753,2026-10-13,,,waiting,CallGrid has NO calls from 4129352753 between 2026-10-12 and 2026-10-15. Check the Caller ID / date in the sheet.,
+2026-10-29T01:15:16,RJ6HSCPDWL,Laura Kostel,7578794589,2026-10-15,,,waiting,CallGrid has NO calls from 7578794589 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T01:15:16,MQ80JRB2FJ,Claude Pocock,4403159291,2026-10-15,,,waiting,CallGrid has NO calls from 4403159291 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T01:15:16,XVLKDD6H1X,Carole Baez,9148442194,2026-10-15,,,waiting,CallGrid has NO calls from 9148442194 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T01:15:17,WJ0XW2BWKL,Samir Musharbash,9045530480,2026-10-15,,,waiting,CallGrid has NO calls from 9045530480 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T01:15:18,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,waiting,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T01:15:18,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,waiting,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:10,BFVL054VWD,Carol Reilly,7577442897,2026-07-20,,,waiting,CallGrid has NO calls from 7577442897 between 2026-07-19 and 2026-07-22. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:11,16KLGCK0ZW,Cindy Wright,2394015070,2026-08-07,,,waiting,CallGrid has NO calls from 2394015070 between 2026-08-06 and 2026-08-09. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:12,K5JVSJ0C26,Joan Shiflett,5402211871,2026-08-14,,,waiting,CallGrid has NO calls from 5402211871 between 2026-08-13 and 2026-08-16. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:12,GW50G8D0TN,Bonnie Conway,4129352753,2026-10-13,,,waiting,CallGrid has NO calls from 4129352753 between 2026-10-12 and 2026-10-15. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:13,RJ6HSCPDWL,Laura Kostel,7578794589,2026-10-15,,,waiting,CallGrid has NO calls from 7578794589 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:13,MQ80JRB2FJ,Claude Pocock,4403159291,2026-10-15,,,waiting,CallGrid has NO calls from 4403159291 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:15,XVLKDD6H1X,Carole Baez,9148442194,2026-10-15,,,waiting,CallGrid has NO calls from 9148442194 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:15,WJ0XW2BWKL,Samir Musharbash,9045530480,2026-10-15,,,waiting,CallGrid has NO calls from 9045530480 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:16,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,waiting,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-29T16:07:16,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,waiting,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:25,GW50G8D0TN,Bonnie Conway,4129352753,2026-10-13,,,waiting,CallGrid has NO calls from 4129352753 between 2026-10-12 and 2026-10-15. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:25,RJ6HSCPDWL,Laura Kostel,7578794589,2026-10-15,,,waiting,CallGrid has NO calls from 7578794589 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:25,MQ80JRB2FJ,Claude Pocock,4403159291,2026-10-15,,,waiting,CallGrid has NO calls from 4403159291 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:26,XVLKDD6H1X,Carole Baez,9148442194,2026-10-15,,,waiting,CallGrid has NO calls from 9148442194 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:26,WJ0XW2BWKL,Samir Musharbash,9045530480,2026-10-15,,,waiting,CallGrid has NO calls from 9045530480 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:26,T61NT30NPK,Marcia Berwick,5616853783,2026-10-15,,,waiting,CallGrid has NO calls from 5616853783 between 2026-10-14 and 2026-10-17. Check the Caller ID / date in the sheet.,
+2026-10-30T19:19:26,M1W8FQXZ05,Lori Webb,9282197206,2026-10-19,,,waiting,CallGrid has NO calls from 9282197206 between 2026-10-18 and 2026-10-21. Check the Caller ID / date in the sheet.,
+2026-10-30T19:28:16,2KQK6V4XTB,Menda Landry,7086382789,2026-10-29,2KQK6V4XTB_1.mp3,clm_7o8LW6lO7GdUX346OYA4Rbpn,finalized,,external
